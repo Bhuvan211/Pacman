@@ -1,0 +1,49 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# Rider
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Mac specific
+.DS_Store
+
+# IDEs
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+venv/
+
+# Project specific
+UserSettings/
+.meta
+
+# Backup files
+*.backup
+*~.unity
