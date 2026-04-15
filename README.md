@@ -1,4 +1,4 @@
-# Maze Hunter 3D
+# Pacman
 
 [![Unity](https://img.shields.io/badge/Unity-6%20LTS-blue.svg)](https://unity.com/)
 [![C#](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -23,7 +23,7 @@
 
 ## Overview
 
-**Maze Hunter 3D** is a comprehensive game development project demonstrating the practical application of Computer Science principles in interactive entertainment. The project combines classical arcade gameplay mechanics with modern 3D rendering, delivering an optimized, component-based architecture suitable for educational and professional contexts.
+**Pacman** is a comprehensive game development project demonstrating the practical application of Computer Science principles in interactive entertainment. The project combines classical arcade gameplay mechanics with modern 3D rendering, delivering an optimized, component-based architecture suitable for educational and professional contexts.
 
 ## ✨ Key Features
 
